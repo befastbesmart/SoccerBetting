@@ -1,0 +1,29 @@
+{
+   "gamesList":[    
+      {
+         "game":"Finland 1st Division",
+         "league":"Ireland 1st League",
+         "score_url":"master/Athlone%20Town%20-%20Cobh%20Ramblers.json"
+      },       
+      {
+         "game":" Dundalk - St Patricks",
+         "league":"Ireland Premier League",
+         "score_url":"master/Athlone%20Town%20-%20Cobh%20Ramblers.json"
+      },       
+      {
+         "game":" Granada - Barcelona B",
+         "league":"Spain 1st League (Segunda)",
+         "score_url":"master/Athlone%20Town%20-%20Cobh%20Ramblers.json"
+      },         
+      {
+         "game":" MVV Maastricht - FC Den Bosch",
+         "league":"Netherlands 1st League",
+         "score_url":"master/Athlone%20Town%20-%20Cobh%20Ramblers.json"
+      },      
+      {
+         "game":" Turku PS - AC Oulu",
+         "league":"Finland 1st Division",
+         "score_url":"master/Athlone%20Town%20-%20Cobh%20Ramblers.json"
+      }
+   ]
+}

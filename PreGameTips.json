@@ -1,0 +1,32 @@
+{
+   "pregametips":[      
+      {
+         "title":"Here you write",
+         "country":"Country",
+         "time":"time",
+         "team":"team",
+         "tip":"This is a tip. You can write what every you want"
+      },
+      {
+         "title":"Here you write",
+         "country":"Country",
+         "time":"time",
+         "team":"team",
+         "tip":"This is a tip. You can write what every you want"
+      },
+      {
+         "title":"Here you write",
+         "country":"Country",
+         "time":"time",
+         "team":"team",
+         "tip":"This is a tip. You can write what every you want"
+      },
+      {
+         "title":"Here you write",
+         "country":"Country",
+         "time":"time",
+         "team":"team",
+         "tip":"This is a tip. You can write what every you want"
+      }
+   ]
+}
