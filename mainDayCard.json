@@ -2,35 +2,51 @@
    "gamecards":[      
       {
          "day":"Day 1",
-         "text":"Ireland 1st League"
+         "text":"Ireland 1st League",
+         "livetips":"master/LiveTips.json",
+         "pregametip":"master/PreGameTips.json"
       },    
       {
          "day":"Day 2",
-         "text":"Ireland 1st League"
+         "text":"Ireland 1st League",
+         "livetips":"master/LiveTips.json",
+         "pregametip":"master/PreGameTips.json"
       },    
       {
          "day":"Athlone Town - Cobh Ramblers",
-         "text":"Ireland 1st League"
+         "text":"Ireland 1st League",
+         "livetips":"master/LiveTips.json",
+         "pregametip":"master/PreGameTips.json"
       },    
       {
          "day":"Athlone Town - Cobh Ramblers",
-         "text":"Ireland 1st League"
+         "text":"Ireland 1st League",
+         "livetips":"master/LiveTips.json",
+         "pregametip":"master/PreGameTips.json"
       },    
       {
          "day":"Athlone Town - Cobh Ramblers",
-         "text":"Ireland 1st League"
+         "text":"Ireland 1st League",
+         "livetips":"master/LiveTips.json",
+         "pregametip":"master/PreGameTips.json"
       },    
       {
          "day":"Athlone Town - Cobh Ramblers",
-         "text":"Ireland 1st League"
+         "text":"Ireland 1st League",
+         "livetips":"master/LiveTips.json",
+         "pregametip":"master/PreGameTips.json"
       },    
       {
          "day":"Athlone Town - Cobh Ramblers",
-         "text":"Ireland 1st League"
+         "text":"Ireland 1st League",
+         "livetips":"master/LiveTips.json",
+         "pregametip":"master/PreGameTips.json"
       },    
       {
          "day":"Athlone Town - Cobh Ramblers",
-         "text":"Ireland 1st League"
+         "text":"Ireland 1st League",
+         "livetips":"master/LiveTips.json",
+         "pregametip":"master/PreGameTips.json"
       }
    ]
 }
